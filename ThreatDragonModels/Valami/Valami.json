@@ -5,7 +5,11 @@
     "owner": "me"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "contri"
+      }
+    ],
     "diagrams": [
       {
         "title": "egyszerű",
